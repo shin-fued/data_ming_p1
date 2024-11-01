@@ -1,5 +1,6 @@
 This Project is imported from Databrick platform, which use Delta Lake volume to store sql tables, so we cant import to github
 
+However, we have convert all the data aside from weather station data into .csv file 
 From the data_and_store.ipynb, line_man and file. There are over 54 api calls for each table of the database: 
 
 this include:
